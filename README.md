@@ -1,6 +1,7 @@
-# WalidGames
-WalidGames is a website for Free &amp; Open source games 
+# Gamio
+Service for Free & Open source games 
 
+### Contributors
 
 ### Copyright CC 2020 Walid Amriou
 
