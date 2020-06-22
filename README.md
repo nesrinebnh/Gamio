@@ -1,7 +1,46 @@
 # Gamio
-Service for Free & Open source games 
+Gamio is a Platform for Free & Open source games
+
+### How to contribute?
+0-  Download Github Desktop: https://desktop.github.com/  
+
+1- click on the Fork button in the top-right corner. This creates a new copy of current Gamio Project to your GitHub account with a URL like this:  
+```
+https://github.com/<YourUserName>/Gamio    
+```
+The copy includes all the code, branches, and commits from the original Gamio repo.  
+
+2- Go to your Gamio copy and click "Clone or download" and select "Open in Desktop". 
+
+3- Open GitHub Desktop client and go to File > Clone Repository.  
+
+4- In the confirmation dialog, select Open GitHub Desktop.app. GitHub Desktop should launch with a “Clone a Repository” dialog box about where to clone the repository. If desired, you can change the Local Path.  
+
+5- Click the URL tab, and then paste in the clone URL. In the Local Path field, select where you want the repo cloned.  
+
+6- Click Clone.  
+
+7- Go into the repository where GitHub Desktop cloned the repo and either make your a change to a game (if you from remote training summer, please edit only in your game folder).   
+
+8- Go back to GitHub Desktop. You’ll see the new file you added in the list of uncommitted changes on the left.  
+
+9- In the lower-left corner of the GitHub Desktop client (where it says “Summary” and “Description”), type a commit message, and then click Commit to master.  
+
+10- Click Push origin at the top.  
+
+11- Once you push the changes to your repo, the Compare & pull request button will appear in GitHub; Click it.
+
+12- Open a pull request by clicking the Create pull request button. This allows the repo's maintainers (walidamriou in this project) to review your contribution. From here, I can merge it if it is good, or I may ask you to make some changes.  
+
+to more info:   
+[Reference 1](https://opensource.com/article/19/7/create-pull-request-github "Reference 1") , [Reference 2](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html "Reference 2")
+
+
+
 
 ### Contributors
+*  
+*  
 
 ### Copyright CC 2020 Walid Amriou
 
