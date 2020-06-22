@@ -1,8 +1,8 @@
 # Gamio
 Gamio is a Platform for Free & Open source games
 
-### How to Contributor?
-0- Download Github Desktop: https://desktop.github.com/  
+### How to contribute?
+0-  Download Github Desktop: https://desktop.github.com/  
 
 1- click on the Fork button in the top-right corner. This creates a new copy of current Gamio Project to your GitHub account with a URL like this:  
 ```
