@@ -1,5 +1,5 @@
 # Gamio
-Gamio is a Platform for Free & Open source games
+Gamio is a Platform for Free & Open source games.
 
 ### How to contribute?
 0-  Download Github Desktop: https://desktop.github.com/  
