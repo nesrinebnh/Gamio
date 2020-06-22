@@ -1,7 +1,9 @@
 # Gamio
-Service for Free & Open source games 
+Gamio is a Platform for Free & Open source games
 
 ### Contributors
+*  
+*  
 
 ### Copyright CC 2020 Walid Amriou
 
